@@ -23,3 +23,4 @@ g++ filename
 
 ## Documentation
 For more information, Please refer to the C++ [docs](https://en.cppreference.com/w/).
+Click [here](https://www.geeksforgeeks.org/dynamic-programming/) to know more about Dynamic Programming.
