@@ -21,6 +21,7 @@ int main()
     14. https://bit.ly/3t62bqQ [Partition a set into two subsets such that the difference of subset sum is minimum.]
     15. https://bit.ly/3B5JBkU [Counts Subsets with Sum K]
     16. https://bit.ly/3r8mG5b [Count Partitions With Given Difference]
+    17. https://bit.ly/3KHpP3v [0 1 Knapsack]
     */
 
     return 0;
