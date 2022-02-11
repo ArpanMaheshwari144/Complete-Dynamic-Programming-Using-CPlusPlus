@@ -1,8 +1,6 @@
 /*
-Recursion -> top-down -> n-1 to 0
-Tabulation -> bottom-up -> 0 to n-1
-
-Note: If recursion is top-down then Tabulation should be bottom-up approach OR If recursion is bottom-up then Tabulation should be top-down approach
+Recursion always starts from top to down -> n-1 to 0
+Tabulation always opposite of recursion
 */
 // Fibonacci number using Dynamic Programming approach(Memoization)
 
