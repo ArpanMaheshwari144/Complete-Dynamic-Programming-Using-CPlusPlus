@@ -22,7 +22,8 @@ int main()
     15. https://bit.ly/3B5JBkU [Counts Subsets with Sum K]
     16. https://bit.ly/3r8mG5b [Count Partitions With Given Difference]
     17. https://bit.ly/3KHpP3v [0 1 Knapsack]
-    18. Minimum Coins or Minimum Elements [https://bit.ly/3HJTeIl]
+    18. https://bit.ly/3HJTeIl [Minimum Coins or Minimum Elements]
+    19. https://bit.ly/3swy5uL [Target Sum]
     */
 
     return 0;
