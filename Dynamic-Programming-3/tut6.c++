@@ -24,6 +24,7 @@ int main()
     17. https://bit.ly/3KHpP3v [0 1 Knapsack]
     18. https://bit.ly/3HJTeIl [Minimum Coins or Minimum Elements]
     19. https://bit.ly/3swy5uL [Target Sum]
+    20. https://bit.ly/33Kd8o2 [Ways To Make Coin Change]
     */
 
     return 0;
