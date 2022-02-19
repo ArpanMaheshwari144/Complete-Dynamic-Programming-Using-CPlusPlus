@@ -26,6 +26,7 @@ int main()
     19. https://bit.ly/3swy5uL [Target Sum]
     20. https://bit.ly/33Kd8o2 [Ways To Make Coin Change]
     21. https://bit.ly/3IvPdXS [Unbounded Knapsack]
+    22. https://bit.ly/3H10kYJ [Rod Cutting Problem]
     */
 
     return 0;
