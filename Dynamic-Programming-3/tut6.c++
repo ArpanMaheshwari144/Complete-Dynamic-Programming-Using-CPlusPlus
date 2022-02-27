@@ -27,6 +27,7 @@ int main()
     20. https://bit.ly/33Kd8o2 [Ways To Make Coin Change]
     21. https://bit.ly/3IvPdXS [Unbounded Knapsack]
     22. https://bit.ly/3H10kYJ [Rod Cutting Problem]
+    23. https://bit.ly/3nXqfce [Matrix Chain Multiplication]
     */
 
     return 0;
