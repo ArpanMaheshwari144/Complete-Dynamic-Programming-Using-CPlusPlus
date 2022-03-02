@@ -28,6 +28,7 @@ int main()
     21. https://bit.ly/3IvPdXS [Unbounded Knapsack]
     22. https://bit.ly/3H10kYJ [Rod Cutting Problem]
     23. https://bit.ly/3nXqfce [Matrix Chain Multiplication]
+    24. https://bit.ly/3sBXKnm [Longest Common Subsequence]
     */
 
     return 0;
