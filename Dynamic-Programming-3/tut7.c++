@@ -29,6 +29,7 @@ int main()
     22. https://bit.ly/3H10kYJ [Rod Cutting Problem]
     23. https://bit.ly/3nXqfce [Matrix Chain Multiplication]
     24. https://bit.ly/3pvkqUd [Longest Common Subsequence]
+    25. https://bit.ly/3H2M3KS [Longest Common Substring]
     */
 
     return 0;
