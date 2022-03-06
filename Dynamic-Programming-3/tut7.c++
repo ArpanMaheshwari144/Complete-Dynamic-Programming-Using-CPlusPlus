@@ -30,6 +30,8 @@ int main()
     23. https://bit.ly/3nXqfce [Matrix Chain Multiplication]
     24. https://bit.ly/3pvkqUd [Longest Common Subsequence]
     25. https://bit.ly/3H2M3KS [Longest Common Substring]
+    26. https://bit.ly/3tybJcV [Longest Palindromic Subsequence]
+    27. https://bit.ly/3H2ZtGP [Minimum insertions to make a string palindrome]
     */
 
     return 0;
