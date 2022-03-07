@@ -32,6 +32,8 @@ int main()
     25. https://bit.ly/3H2M3KS [Longest Common Substring]
     26. https://bit.ly/3tybJcV [Longest Palindromic Subsequence]
     27. https://bit.ly/3H2ZtGP [Minimum insertions to make a string palindrome]
+    28. https://bit.ly/3pya8CP [Minimum Insertions/Deletions to Convert String A to String B]
+    29. https://bit.ly/3vEYKce [Shortest Common Supersequence]
     */
 
     return 0;
