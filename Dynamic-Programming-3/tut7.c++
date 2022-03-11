@@ -34,6 +34,7 @@ int main()
     27. https://bit.ly/3H2ZtGP [Minimum insertions to make a string palindrome]
     28. https://bit.ly/3pya8CP [Minimum Insertions/Deletions to Convert String A to String B]
     29. https://bit.ly/3vEYKce [Shortest Common Supersequence]
+    30. https://bit.ly/37oaS7l [Distinct Subsequences]
     */
 
     return 0;
