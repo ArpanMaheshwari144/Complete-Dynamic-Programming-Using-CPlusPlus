@@ -36,6 +36,7 @@ int main()
     29. https://bit.ly/3vEYKce [Shortest Common Supersequence]
     30. https://bit.ly/37oaS7l [Distinct Subsequences]
     31. https://bit.ly/3HcTJdy [Edit Distance]
+    32. https://bit.ly/3qXtORt [Wildcard Pattern Matching]
     */
 
     return 0;
