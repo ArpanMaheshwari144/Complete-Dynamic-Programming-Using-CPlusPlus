@@ -43,7 +43,6 @@ int main()
     36. https://bit.ly/3tZsYWA or https://bit.ly/36LIN9u [Buy and Sell Stocks With Cooldown]
     37. https://bit.ly/3nZucNH [Buy and Sell Stocks With Transaction Fee]
     38. https://bit.ly/3nXqfce [Matrix Chain Multiplication]
-
     */
 
     return 0;
