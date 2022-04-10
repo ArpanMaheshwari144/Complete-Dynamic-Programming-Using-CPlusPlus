@@ -24,6 +24,7 @@ void printLongestCommonSubsequence(int arr[], int n)
         }
     }
 
+    // putting the hash array into the temp array
     vector<int> temp;
     temp.push_back(arr[lastIndex]);
     while (hash[lastIndex] != lastIndex)
