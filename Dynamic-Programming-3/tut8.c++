@@ -45,6 +45,8 @@ int main()
     38. https://bit.ly/3nXqfce [Matrix Chain Multiplication]
     39. https://bit.ly/3rVoIoq [Longest Increasing Subsequence]
     40. https://bit.ly/3rON1Ef [Largest Divisible Subset]
+    41. https://bit.ly/3KHsl9J [Longest String Chain]
+    42. https://bit.ly/3r4o1JB [Longest Bitonic Subsequence]
     */
 
     return 0;
