@@ -47,6 +47,7 @@ int main()
     40. https://bit.ly/3rON1Ef [Largest Divisible Subset]
     41. https://bit.ly/3KHsl9J [Longest String Chain]
     42. https://bit.ly/3r4o1JB [Longest Bitonic Subsequence]
+    43. https://bit.ly/3fTRGiz [Number of Longest Increasing Subsequences]
     */
 
     return 0;
