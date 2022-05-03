@@ -50,6 +50,8 @@ int main()
     43. https://bit.ly/3fTRGiz [Number of Longest Increasing Subsequences]
     44. https://bit.ly/3rWLMnC [Minimum Cost to Cut the Stick]
     45. https://bit.ly/3Kgck9N [Burst Balloons]
+    46. https://bit.ly/32tAMUW [Evaluate Boolean Expression to True]
+    47. https://bit.ly/3jNRzqX [Palindrome Partitioning - II]
     */
 
     return 0;
