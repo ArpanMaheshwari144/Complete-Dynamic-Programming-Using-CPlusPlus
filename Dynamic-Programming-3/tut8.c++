@@ -52,6 +52,9 @@ int main()
     45. https://bit.ly/3Kgck9N [Burst Balloons]
     46. https://bit.ly/32tAMUW [Evaluate Boolean Expression to True]
     47. https://bit.ly/3jNRzqX [Palindrome Partitioning - II]
+    48. https://bit.ly/3P1q7nM [Partition Array for Maximum Sum]
+    49. https://bit.ly/33HFz61 [Maximum Rectangle Area with all 1's]
+    50. https://bit.ly/3tYAUY7 [Count Square Submatrices with All Ones]
     */
 
     return 0;
